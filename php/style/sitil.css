@@ -1,0 +1,90 @@
+body {
+    background-image: url(blogwall.jpg);
+    background-size: cover;
+    }
+    
+    nav {
+        background-color:   gray        ;
+        background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    }
+    
+    .container {
+        background-color: gray;
+    margin-top: 4%;
+    border: 5px outset red;
+    }
+    
+    .text {
+        width: 80%;
+        height: 500px;
+        border-radius: 5px;  
+        border: 5px outset red;
+    }
+
+    #baslik{
+
+        width: 15px;
+        height: 20px;
+    }
+    
+    form {
+        text-align: center;
+    }
+    
+    .heading {
+        width: 60%;
+        border-radius: 5px;
+        
+    
+    }
+    
+    #yayınla {
+        margin-top:50px;
+        margin-bottom:50px;
+    }
+    
+    h2{
+        margin-top: 50px;
+        line-height: 60px;
+    }
+    
+    #inputgiris {
+        background-color:   rgb(255, 255, 255);
+        color: darkslategray;
+        font-size: 18px;
+        margin-top: 250px;
+        margin-bottom: 250px;
+        margin-left: 100px;
+        margin-right: 100px;
+        
+    }
+    
+    
+    #adminpage{
+    
+        background-image: url(admingiriş.jpg);
+        background-size: contain    ;
+        margin-right: 0.5px;
+        width: 500px;
+        height: 600px;   
+     
+    }
+    
+    #habersayfasi{
+        
+       background-color: gray;
+    }
+
+    .admin  {
+
+        background-color: aliceblue;
+    }
+
+    #profilim {
+
+        text-align: center;
+        margin-right: 0.5px;
+        width: 500px;
+        height: 600px;   
+
+    }
